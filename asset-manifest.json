@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ra-hw5-composition-cards/static/css/main.854b4986.chunk.css",
+    "main.js": "/ra-hw5-composition-cards/static/js/main.3c8d5b51.chunk.js",
+    "main.js.map": "/ra-hw5-composition-cards/static/js/main.3c8d5b51.chunk.js.map",
+    "runtime-main.js": "/ra-hw5-composition-cards/static/js/runtime-main.85946a9f.js",
+    "runtime-main.js.map": "/ra-hw5-composition-cards/static/js/runtime-main.85946a9f.js.map",
+    "static/js/2.dcd6d49d.chunk.js": "/ra-hw5-composition-cards/static/js/2.dcd6d49d.chunk.js",
+    "static/js/2.dcd6d49d.chunk.js.map": "/ra-hw5-composition-cards/static/js/2.dcd6d49d.chunk.js.map",
+    "index.html": "/ra-hw5-composition-cards/index.html",
+    "static/css/main.854b4986.chunk.css.map": "/ra-hw5-composition-cards/static/css/main.854b4986.chunk.css.map",
+    "static/js/2.dcd6d49d.chunk.js.LICENSE.txt": "/ra-hw5-composition-cards/static/js/2.dcd6d49d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85946a9f.js",
+    "static/js/2.dcd6d49d.chunk.js",
+    "static/css/main.854b4986.chunk.css",
+    "static/js/main.3c8d5b51.chunk.js"
+  ]
+}
