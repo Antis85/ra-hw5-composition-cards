@@ -1,0 +1,10 @@
+.card {
+  width: 300px;
+  margin: 1rem auto;
+}
+
+.card-img-top {
+  background-color: rgb(192, 200, 208);
+  text-align: center;
+  box-sizing: border-box;
+} 
